@@ -142,7 +142,7 @@ export default function Page() {
   // Функция поиска на карте
   const searchOnMap = (query: string) => {
     const encodedQuery = encodeURIComponent(query);
-    window.open(`https://yandex.ru/maps/?text=${encodedQuery}&ll=28.266128,57.816576&z=12`, '_blank');
+    window.open(`https://yandex.ru/maps/?text=${encodedQuery}&ll=49.298510,53.503439&z=12`, '_blank');
     setShowSearchModal(false);
     setSearchQuery('');
   };
@@ -1722,7 +1722,7 @@ export default function Page() {
       <div className="lg:hidden relative h-screen w-full overflow-hidden">
         {/* Map iframe */}
         <iframe
-          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.298510%2C53.503439&mode=whatshere&whatshere%5Bpoint%5D=28.266128%2C57.816576&whatshere%5Bzoom%5D=18.61whatshere%5Bzoom%5D=17&z=16z=18&theme=light"
+          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.298510%2C53.503439&mode=whatshere&whatshere%5Bpoint%5D=49.298510%2C53.503439&whatshere%5Bzoom%5D=17&z=17&theme=light"
           allowFullScreen
           className="w-full h-full border-0"
         />
@@ -2886,7 +2886,7 @@ export default function Page() {
       {/* Right Panel - Map (Desktop Only) */}
       <div className="hidden lg:flex flex-1 relative">
         <iframe
-          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.298510%2C53.503439&mode=whatshere&whatshere%5Bpoint%5D=28.266128%2C57.816576&whatshere%5Bzoom%5D=18.61whatshere%5Bzoom%5D=17&z=16z=18&theme=light"
+          src="https://yandex.com/map-widget/v1/?from=api-maps&ll=49.298510%2C53.503439&mode=whatshere&whatshere%5Bpoint%5D=49.298510%2C53.503439&whatshere%5Bzoom%5D=17&z=17&theme=light"
           allowFullScreen
           className="w-full h-full border-0"
         />
