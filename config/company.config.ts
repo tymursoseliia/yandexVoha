@@ -24,8 +24,8 @@ export const companyConfig = {
 
   // Координаты на карте
   coordinates: {
-    latitude: 53.503439,
-    longitude: 49.298510,
+    latitude: 53.465343,
+    longitude: 49.535800,
     zoom: 17.13
   },
 
