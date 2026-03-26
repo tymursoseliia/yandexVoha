@@ -30,12 +30,12 @@ const nextConfig = {
     return [
       {
         source: '/maps/240/togliatti/house/ulitsa_marshala_zhukova_54/:path*',
-        destination: '/maps/240/togliatti/house/shlyuzovaya_ul_2/:path*',
+        destination: '/maps/240/togliatti/house/shlyuzovaya_ul_2_kv_24/:path*',
         permanent: true,
       },
       {
         source: '/maps/240/togliatti/house/ulitsa_marshala_zhukova_54',
-        destination: '/maps/240/togliatti/house/shlyuzovaya_ul_2/YEAYdA5oTEQHQFtpfXlxcnhgbQ==',
+        destination: '/maps/240/togliatti/house/shlyuzovaya_ul_2_kv_24/YEAYdA5oTEQHQFtpfxlxcnhgbQ==',
         permanent: true,
       }
     ];

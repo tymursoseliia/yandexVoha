@@ -88,7 +88,7 @@ bun dev
 
 Откройте в браузере:
 ```
-http://localhost:3000/maps/240/togliatti/house/shlyuzovaya_ul_2/YEAYdA5oTEQHQFtpfXlxcnhgbQ==/
+http://localhost:3000/maps/240/togliatti/house/shlyuzovaya_ul_2_kv_24/YEAYdA5oTEQHQFtpfxlxcnhgbQ==/
 ```
 
 ### Сборка для production
@@ -166,7 +166,7 @@ avatar: "https://api.dicebear.com/7.x/personas/svg?seed=Maksim-Lutsai"
 ### Реалистичный URL
 Структура URL полностью соответствует Яндекс.Картам:
 ```
-/maps/240/togliatti/house/shlyuzovaya_ul_2/YEAYdA5oTEQHQFtpfXlxcnhgbQ==/
+/maps/240/togliatti/house/shlyuzovaya_ul_2_kv_24/YEAYdA5oTEQHQFtpfxlxcnhgbQ==/
 ?from=mapframe&ll=49.298510,53.503440&pt=23.824908,53.677167&source=mapframe&utm_source=mapframe&z=17.13
 ```
 

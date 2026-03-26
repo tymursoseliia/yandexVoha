@@ -524,7 +524,7 @@ export default function Page() {
                   <div>
                     <div className="text-[13px] lg:text-[14px] font-medium text-gray-800 mb-0.5">Адрес</div>
                     <a
-                      href="https://yandex.ru/maps/?ll=49.535800%2C53.465343&z=18&text=Тольятти%2C%20Шлюзовая%20ул%2C%20д.%202"
+                      href="https://yandex.ru/maps/?ll=49.535800%2C53.465343&z=18&text=Тольятти%2C%20Шлюзовая%20ул%2C%20д.%202%2C%20кв.%2024"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[13px] lg:text-[14px] text-blue-600 hover:text-blue-700 hover:underline cursor-pointer"
