@@ -3,29 +3,29 @@
 
 export const companyConfig = {
   // Основная информация
-  name: "ООО ВОЛГА-АВТО",
+  name: "ООО «АВТОМИГ»",
   slogan: "Торговля автомобилями",
   category: "Автосалон, торговля автомобилями",
 
   // Контакты
-  phone: "+7 (934) 005-11-27",
-  phoneLink: "+79340051127",
-  email: "volga.avtogroups@mail.ru",
+  phone: "+7 (980) 975-14-63",
+  phoneLink: "+79809751463",
+  email: "automig@ro.ru",
   website: "",
 
   // Адрес
   address: {
-    full: "445015, Самарская область, г. Тольятти, Шлюзовая ул, д. 2, кв. 24",
-    city: "Тольятти",
+    full: "443065, Самарская область, г. Самара, Долотный пер., д.7, 10",
+    city: "Самара",
     region: "Самарская область",
-    street: "Шлюзовая ул, д. 2, кв. 24",
-    zipCode: "445015"
+    street: "Долотный пер., д.7, 10",
+    zipCode: "443065"
   },
 
   // Координаты на карте
   coordinates: {
-    latitude: 53.465343,
-    longitude: 49.535800,
+    latitude: 53.1208,
+    longitude: 50.0811,
     zoom: 17.13
   },
 
@@ -38,8 +38,8 @@ export const companyConfig = {
 
   // Логотип
   logo: {
-    url: "/logo-light.png",
-    alt: "ООО ВОЛГА-АВТО"
+    url: "/logo-light.png?v=3",
+    alt: "ООО «АВТОМИГ»"
   },
 
   // График работы
